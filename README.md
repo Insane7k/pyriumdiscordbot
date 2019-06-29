@@ -12,12 +12,12 @@ The help command is "py.help"
 
 
 NOTES:
-Utils folder doesnt need any editing, all is fine.
-Data folder is empty but shouldnt be deleted as some commands need it to store data when they are executed.
-fun.py in cogs folder is just a cog for some of the fun commands in the bot, no editing needed there.
-Everything was tested before upload, bot should start up and all should work fine when all requirements are installed and token is added.
-Don't delete ANYTHING AT ALL in the "assets" folder. EVERYTHING in that folder is important!
+Utils folder doesnt need any editing, all is fine.;
+Data folder is empty but shouldnt be deleted as some commands need it to store data when they are executed.;
+fun.py in cogs folder is just a cog for some of the fun commands in the bot, no editing needed there.;
+Everything was tested before upload, bot should start up and all should work fine when all requirements are installed and token is added.;
+Don't delete ANYTHING AT ALL in the "assets" folder. EVERYTHING in that folder is important!;
 
-Basically, you don't need to edit anything in the files except replace TOKEN at the last line of bot.py to an actual token.
+Basically, you don't need to edit anything in the files except replace TOKEN at the last line of bot.py to an actual token.;
 
 Discord: Insane#0002
