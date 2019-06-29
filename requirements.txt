@@ -1,0 +1,13 @@
+discord.py
+colorlog
+asyncio
+cffi
+pynacl
+aiohttp
+python-nmap
+pythonwhois
+pillow
+requests
+lxml
+cowpy
+google-api-python-client
