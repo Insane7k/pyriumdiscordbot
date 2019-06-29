@@ -10,4 +10,5 @@ pillow
 requests
 lxml
 cowpy
+fortune
 google-api-python-client
