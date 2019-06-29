@@ -11,7 +11,7 @@ The prefix is: "py."
 The help command is "py.help"
 
 
-NOTES
+NOTES:
 Utils folder doesnt need any editing, all is fine.
 Data folder is empty but shouldnt be deleted as some commands need it to store data when they are executed.
 fun.py in cogs folder is just a cog for some of the fun commands in the bot, no editing needed there.
